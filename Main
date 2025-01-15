@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Password Game TAS
+// @name        Password Game TAS (Partial)
 // @match       https://neal.fun/password-game/
 // @grant       none
 // @version     1.0
